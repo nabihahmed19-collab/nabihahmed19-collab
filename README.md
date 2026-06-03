@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Nabiha 👋</h1>
+S<h1 align="center">Hi, I'm Nabiha 👋</h1>
 <h3 align="center">Data Analyst & AI Developer from Karachi, Pakistan 🇵🇰</h3>
 
 <br/>
@@ -47,7 +47,7 @@
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/its-shaikh-nabiha-ahmed/)
 
 ---
 
