@@ -1,4 +1,4 @@
-S<h1 align="center">Hi, I'm Nabiha 👋</h1>
+<h1 align="center">Hi, I'm Nabiha 👋</h1>
 <h3 align="center">Data Analyst & AI Developer from Karachi, Pakistan 🇵🇰</h3>
 
 <br/>
